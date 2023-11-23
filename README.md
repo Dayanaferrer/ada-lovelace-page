@@ -30,3 +30,4 @@ O trabalho de Ada Lovelace, embora inicialmente pouco reconhecido em sua época,
 
 ### Vamos continuar a inspirar e celebrar mulheres na tecnologia!
 
+(https://www.instagram.com/p/CpiDdbDImb6/) 
