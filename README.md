@@ -22,7 +22,7 @@ Ada Lovelace trabalhou com Charles Babbage em sua Máquina Analítica, uma máqu
 
 Ada Lovelace é homenageada todo ano em 10 de dezembro no "Ada Lovelace Day", um evento internacional que celebra as conquistas das mulheres na ciência, tecnologia, engenharia e matemática. O legado de Ada Lovelace continua a inspirar mulheres em campos relacionados à tecnologia.
 
-## Inspirando o Futuro :
+## Inspirando o Futuro 
 
 ![Ada Lovelace Inspirando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRubmRma2x0YWhpemo0cWNjMDZzdWhqaGp2bThpMHl2NHltZG1kYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBdrbmG9FpQwJpp4m8/giphy.gif)
 
